@@ -4,15 +4,15 @@ title: About Me
 
 Hello! I'm Matt, a Computer Science student at Purdue University.  
 
-This website is meant to be multipurpose--a portfolio, a wiki, and a home for anything else I want to publish.
-
+This website is meant to be multipurpose--a portfolio, a wiki, a [Resume](Resume.md) and a home for anything else I want to publish.
+ 
+**Note: this website is NOT complete, some links don't work. I'm actively fixing this.**
 ## [Projects](Projects.md)
 
 [Passman](passman.md) is a command-line based password manager with encryption, cloud syncing, and more!
 
 [cspeed](cspeed.md) is a simple, fast, lightweight typing speed game written in C.
-
-[VimScode](VimScode.md) is a NeoVim plugin that helps open VSCode for faster debugging.
+mdVimScode](VimScode.md) is a NeoVim plugin that helps open VSCode for faster debugging.
 
 ## Interests
 
@@ -20,7 +20,7 @@ I enjoy coding (obviously), but I also like to play drums, snowboard, BMX, and b
 
 I'm a big open-source advocate, and love using open-source projects such as [NeoVim](neovim.md) and [Linux](linux.md)
 
-## Connect with me
+## Connect with Me 
 
 [Github](https://github.com/mattallenn)
 
